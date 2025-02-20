@@ -377,21 +377,21 @@ Focus State:
 }
 
 #project1{
-    background-image: url(/Animation-and-Responsiveness/Portfolio-website/images/projects/web-blog.webp);
+    background-image: url(/images/projects/web-blog.webp);
 }
 
 #project2{
     margin-left: 120px;
-    background-image: url(/Animation-and-Responsiveness/Portfolio-website/images/projects/password-generator.jpg);
+    background-image: url(/images/projects/password-generator.jpg);
 }
 
 #project3{
-    background-image: url(/Animation-and-Responsiveness/Portfolio-website/images/projects/ed-tech.png);
+    background-image: url(/images/projects/ed-tech.png);
 }
 
 #project4{
     margin-left: 120px;
-    background-image: url(/Animation-and-Responsiveness/Portfolio-website/images/projects/parking.jpg);
+    background-image: url(/images/projects/parking.jpg);
 }
 .project-card::after{
     content: "";
